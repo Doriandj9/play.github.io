@@ -68,7 +68,7 @@ try {
 
 new generator(nameUserF, "header").generateName();
 
-localStorage.clear();
+//localStorage.clear();
 
 //---------------------------------------Funcionalidad de Botones-----------------
 
